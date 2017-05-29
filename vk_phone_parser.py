@@ -69,4 +69,5 @@ def main():
     input('Press Enter...')
 
 
-main()
+if __name__ == '__main__':
+        main()
